@@ -135,7 +135,7 @@ See the repository owner for permissions or inquiries.
 
 <div align="center">
 
-**YOUR CLIENT**
+**KRAKE CLIENT**
 
 *Built with passion. Designed for your playstyle.*
 
