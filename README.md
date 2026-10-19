@@ -3,7 +3,7 @@
 
 <img src="assets/logo.png" alt="Client Logo" width="150"/>
 
-# ✦ YOUR CLIENT
+# ✦ KRAKE CLIENT
 
 **Redefine your gameplay.**
 
