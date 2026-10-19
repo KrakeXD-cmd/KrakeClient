@@ -125,7 +125,11 @@ Have questions or feedback?
 
 ## 📄 License
 
-This repository currently has no license file. All rights remain with their respective copyright holders. Public visibility does not grant permission to reuse or redistribute the code.
+KrakeClient is proprietary software. All rights reserved.
+
+You may view the source code for informational purposes only. Copying, modifying, redistributing, or using this software without prior written permission from the copyright holder is not permitted.
+
+See the repository owner for permissions or inquiries.
 
 ---
 
@@ -135,7 +139,7 @@ This repository currently has no license file. All rights remain with their resp
 
 *Built with passion. Designed for your playstyle.*
 
-<sub>© 2026 YOUR CLIENT. All rights reserved.</sub>
+<sub>© 2026 KRAKE CLIENT. All rights reserved.</sub>
 
 </div>
 
