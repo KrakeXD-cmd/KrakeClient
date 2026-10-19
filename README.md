@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/logo.png" alt="Client Logo" width="150"/>
+<img src="assets/logo.png" width="180" alt="Client Logo">
 
 # ✦ KRAKE CLIENT
 
